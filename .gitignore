@@ -1,0 +1,49 @@
+# Compiled class file
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# Intellij IDEA project files
+.idea/
+
+# Maven project files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle project files
+.gradle/
+build/
+
+# Logs and other generated files
+log/
+logs/
+*.log
+*.log.*
+*.access
+*.trace
+*.txt
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.iml
+*.ipr
+*.iws
